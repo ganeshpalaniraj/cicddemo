@@ -7,12 +7,30 @@ second edit
 
 
 third edit
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 9edc318... modifieds
 test1
 
 test-2
 test-3
 test-4
+<<<<<<< HEAD
 
 save
 
 revert
+=======
+=======
+>>>>>>> parent of 5b96a08... test revert
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 7b72299... test-1
+=======
+>>>>>>> parent of 7b72299... test-1
+=======
+>>>>>>> parent of 9edc318... modifieds
+>>>>>>> parent of 1445ef0... modifieds
